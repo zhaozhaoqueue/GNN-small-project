@@ -1,1 +1,1 @@
-"GNN for karate club problem and Cora dataset" 
+# GNN for karate club problem and Cora dataset
